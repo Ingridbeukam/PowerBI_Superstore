@@ -1,6 +1,4 @@
-"# Power BI Captures" 
-
-
+"# Commentaires des captures Power BI" 
 Ce projet contient des captures d'écran extraites de Power BI, représentant différentes analyses et rapports. Voici une explication de chaque fichier :
 
 ## Fichiers
