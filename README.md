@@ -50,3 +50,7 @@ Il met en lumière les performances de ventes, les bénéfices et les tendances 
 - Évolution des délais de livraison
 - Temps moyen de livraison par région
 - Impact du segment client sur le délai de livraison
+
+  
+### 📬 Contact
+Tu peux me contacter via ingridbeukam@gmail.com ou LinkedIn https://www.linkedin.com/in/ingrid-madjougang-beukam/ pour toute question ou suggestion.
